@@ -1,0 +1,12 @@
+1. git init // in the selected folder
+2. create a file
+3. git add .
+4. git commit -m <message>
+5. create a repository in github and take the url
+6. git remote add origin <link of the remote repository from step 5>
+7. git remote push -u origin master
+
+//remove a origin from remote
+git remote remove origin
+
+
